@@ -1,0 +1,47 @@
+.bg-dark {
+    background-color:transparent !important;
+}
+.logo-img{
+    width: 120px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    filter: brightness(8);
+    transition: .2s;
+}
+.logo-img:hover{
+    filter: brightness(4);
+}
+.form-inline{
+    position: relative;
+}
+.form-control{
+    background-color:transparent;
+    padding-left: 40px;
+}
+.svg-inline--fa.fa-w-16 {
+    color: #fff;
+    position: absolute;
+    left: 15px;
+    top: 13px;
+}
+.form-control::placeholder {
+    color: #fff;
+}
+.form-control:focus {
+    background-color: transparent;
+    color: #fff;
+}
+.navbar-nav a{
+    color: #fff;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.hover{
+    font-weight: bold;
+}
+.navbar-nav a:hover{
+    text-decoration: none;
+    background-color: #F9A51A
+}

@@ -1,0 +1,19 @@
+.banner-area{
+    color: #fff;
+    padding: 100px 0;
+}
+.banner-area h1{
+    font-size:65px;
+    text-transform: uppercase;
+}
+.booking-btn{
+    background: #F9A51A;
+    padding: 10px 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+.booking-btn:hover{
+    opacity: .8;
+}

@@ -1,0 +1,32 @@
+.booking-form{
+    width: 100%;
+    background:#FFF;
+    color: #818181;
+    padding: 10px 20px;
+}
+.booking-form label{
+    display:block;
+}
+.booking-form a{
+    text-decoration: none;
+}
+.booking-form input{
+    display: block;
+    background: #F2F2F2;
+    outline: none;
+    border: none;
+    width: 100%;
+    padding: 8px 10px;
+    margin-bottom: 10px;
+}
+.booking-form input[type="submit"]{
+    background: #F9A51A;
+    color: #000;
+    margin-top: 10px;
+}
+.booking-form input[type="submit"]:hover{
+    opacity: .8;
+}
+.error{
+    color: red;
+}

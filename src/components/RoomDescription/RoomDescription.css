@@ -1,0 +1,16 @@
+.description h2{
+    font-size: 20px;
+}
+.description p{
+    line-height: 22px;
+}
+.description span img{
+        height: 16px;
+        width: auto;
+        margin-right: 5px;
+        margin-bottom: 5px;
+}
+.price{
+    font-weight: bold;
+    margin-left: 25px;
+}

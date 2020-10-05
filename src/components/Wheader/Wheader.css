@@ -1,0 +1,34 @@
+.wheader .navbar-toggler-icon {
+    background: gray;
+    color: white;
+    border-color: #000;
+}
+.wheader .logo-img{
+    width: 120px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    filter: brightness(0);
+    transition: .2s;
+}
+.wheader .logo-img:hover{
+    filter: brightness(1);
+}
+.wheader .form-control{
+    background-color:transparent;
+    padding-left: 40px;
+}
+
+.wheader .navbar-nav a{
+    color: #000;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.wheader .navbar-nav a:hover{
+    text-decoration: none;
+    background-color: #F9A51A
+}
+.wheader .navbar{
+    padding: 5px 0;
+}
